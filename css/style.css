@@ -1,0 +1,94 @@
+ .btn-xlarge {
+    padding: 18px 28px;
+    font-size: 50px; /*change this to your desired size*/
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+        
+        h1{
+            font-family: 'Lobster', cursive;
+            
+            text-shadow:
+	1px 1px 0 #CCC,
+	2px 2px 0 #CCC, /* end of 2 level deep grey shadow */
+	3px 3px 0 #666,
+	4px 4px 0 #666,
+	5px 5px 0 #666,
+	6px 6px 0 #666; /* end of 4 level deep dark shadow */
+        }
+        
+        .l1{color: blueviolet; font-size: 2em;}
+        .l2{color: chartreuse;font-size: 2em;}
+        .l3{color: cornflowerblue;font-size: 2em;}
+        .l4{color: crimson;font-size: 2em;}
+        .l5{color: darkgoldenrod;font-size: 2em;}
+        .l6{color: darkblue;font-size: 2em;}
+        
+        h2
+{
+    font-family: 'Lobster', cursive;
+    color: blueviolet;
+    font-size: 10em;
+	text-shadow:
+	1px 1px 0 #CCC,
+	2px 2px 0 #CCC, /* end of 2 level deep grey shadow */
+	3px 3px 0 #666,
+	4px 4px 0 #666,
+	5px 5px 0 #666,
+	6px 6px 0 #666; /* end of 4 level deep dark shadow */
+    
+    /* CSS3 Transition Effect */
+	-webkit-transition: all 0.12s ease-out;		/* Safari & Chrome */
+	-moz-transition: all 0.12s ease-out;		/* Firefox */
+	-o-transition: all 0.12s ease-out;		/* Opera */
+}
+        
+        h2:hover
+{
+ 	/* CSS3 Transform Effect */
+  	-webkit-transform: scale(1.2);     /* Safari & Chrome */
+  	-moz-transform: scale(1.2);        /* Firefox */
+  	-o-transform: scale(1.2);          /* Opera */
+}
+
+
+
+
+
+
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  /*position: relative;*/
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
