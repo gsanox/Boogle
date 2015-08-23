@@ -6,6 +6,8 @@ Game created for kids to use in english learning classroom.
 Choose between 9 and 12 letters and then give players 5 minutes to come up with as many possible words using the letters chosen. Repeated words don't count, so the winner is the player with the most words that aren't repeated. Also can be played by trying to get the longest words as well.
 ##### Who could use it?
 Teachers who want to make their English classes more fun. Also can be used by parents who want to play and put into practice their children's English as well as their own.
+##### Demo
+Game demo can be found [here](http://starsandstripesenglish.com/boogle).
 ##### Instalation
 1. Download/Clone.
 2. Play.
